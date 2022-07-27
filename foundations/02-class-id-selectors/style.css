@@ -1,0 +1,20 @@
+.class-text {
+    background-color: #ff000050;
+    font-family: "verdana", "DejaVu Sans", sans-serif;
+}
+
+#id-1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.unique-class {
+    font-size: 24px
+}
+
+#id-2 {
+    background-color: #00ff0050;
+    font-size: 24px;
+    font-weight: bold;
+
+}
